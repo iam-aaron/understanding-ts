@@ -68,12 +68,12 @@
     "forceConsistentCasingInFileNames": true  /* Disallow inconsistently-cased references to the same file. */
   },
   "exclude": [ //exclude file so they won't be automatically compiled
-    "./src/basics.ts",
-    "./src/functions-and-callbacks.ts",
-    "./src/objects-arrays-enums.ts",
-    "./src/union-aliases.ts",
-    "./src/unknown-and-never-types.ts",
-    "./src/binding.ts",
+    "./src/past_modules/basics.ts",
+    "./src/past_modules/functions-and-callbacks.ts",
+    "./src/past_modules/objects-arrays-enums.ts",
+    "./src/past_modules/union-aliases.ts",
+    "./src/past_modules/unknown-and-never-types.ts",
+    "./src/past_modules/binding.ts",
     "node_modules"
   ]
 }

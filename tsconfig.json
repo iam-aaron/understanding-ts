@@ -74,6 +74,8 @@
     "./src/past_modules/union-aliases.ts",
     "./src/past_modules/unknown-and-never-types.ts",
     "./src/past_modules/binding.ts",
+    "./src/past_modules/classes.ts",
+    "./src/past_modules/interface.ts",
     "node_modules"
   ]
 }

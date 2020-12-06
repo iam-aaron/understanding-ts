@@ -142,7 +142,7 @@ const errorBag: ErrorContainer = {
 const fetchUserData = {
     id: 'u1',
     name: 'Aaron',
-    //job: {title: 'CTO', description: 'in your dreams'}
+    job: {title: 'CTO', description: 'in your dreams'}
 }
 
 console.log(fetchUserData?.job?.title); //prevents run time error, checks per level, secure way of preventing a run-time error, but might encounter a compile error in TSC depending on the config

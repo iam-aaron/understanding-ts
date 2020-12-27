@@ -78,7 +78,9 @@
     "./src/past_modules/interface.ts",
     "./src/past_modules/advanced-types.ts",
     "./src/app2.ts",
-    "./src/generic-functions.ts",
+    "./src/past_modules/nextgen-js.ts",
+    "./src/past_modules/generic-functions.ts",
+    "./src/past_modules/generic-classes.ts",
     "node_modules"
   ]
 }

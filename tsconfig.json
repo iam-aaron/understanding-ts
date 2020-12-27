@@ -81,6 +81,7 @@
     "./src/past_modules/nextgen-js.ts",
     "./src/past_modules/generic-functions.ts",
     "./src/past_modules/generic-classes.ts",
+    "./src/past_modules/partial-and-readonly.ts",
     "node_modules"
   ]
 }
